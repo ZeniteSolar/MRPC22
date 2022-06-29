@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "rasp3")(type "KiCad")(uri "${KIPRJMOD}/Bibliotecas/Raspberry-Pi-3-library-for-kicad/rasp3.pretty")(options "")(descr ""))
+  (lib (name "KicadZeniteSolarLibrary18")(type "KiCad")(uri "${KIPRJMOD}/Bibliotecas/KicadZeniteSolarLibrary18.pretty")(options "")(descr ""))
+)
