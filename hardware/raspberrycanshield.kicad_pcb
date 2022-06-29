@@ -3775,7 +3775,7 @@
     )
   )
 
-  (footprint "rasp3:raspberrypi_2_3" locked (layer "F.Cu")
+  (footprint "rasp3:raspberrypi_2_3" (layer "F.Cu")
     (tedit 5C5E4138) (tstamp 7cd9c5b3-1e55-4ea9-ba90-dc1eb252d7c2)
     (at 249.808 88.677)
     (descr "RaspberryPi 2")
